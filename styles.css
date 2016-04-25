@@ -10,11 +10,21 @@
 }
 
 .title {
-    font-size: 30px;
+    font-size: 26px;
     margin: 8px 0 15px 5px;
 }
 
 .main-img {
     width: 300px;
     margin: auto;
+}
+
+.info-container {
+    border: 1px solid #ccc;
+    margin: 8px 0 3px 0;
+    padding: 10px 10px 20px 10px;
+}
+
+p {
+    margin: 0;
 }
