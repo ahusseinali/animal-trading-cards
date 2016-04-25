@@ -33,3 +33,15 @@ p {
 .fact {
     font-style: italic;
 }
+
+.statistics {
+    list-style-type: none;
+    padding: 0;
+    margin: 12px 0;
+    font-style: italic;
+}
+
+.stat-name {
+    font-weight: bold;
+    font-style: normal;
+}
